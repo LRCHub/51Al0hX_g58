@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Rock Teto",
+  "base_artist": "ROMA",
+  "createdAt": "2026-02-06T06:14:10.337467Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rock Teto",
+      "artist": "Roma",
+      "has_synced": false,
+      "path": "select/01_Rock_Teto_Roma.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock Me Amadeus (The Gold Mix)",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/02_Rock_Me_Amadeus_(The_Gold_Mix)_Falco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock and a Hard Place",
+      "artist": "Bailey Zimmerman",
+      "has_synced": true,
+      "path": "select/03_Rock_and_a_Hard_Place_Bailey_Zimmerman.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Solid Rock",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/04_Solid_Rock_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Little Past Little Rock",
+      "artist": "Lee Ann Womack",
+      "has_synced": true,
+      "path": "select/05_A_Little_Past_Little_Rock_Lee_Ann_Womack.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Little Past Little Rock (Album Version)",
+      "artist": "Lee Ann Womack",
+      "has_synced": true,
+      "path": "select/06_A_Little_Past_Little_Rock_(Album_Version)_Lee_Ann_Womack.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby Likes to Rock It",
+      "artist": "The Tractors",
+      "has_synced": true,
+      "path": "select/07_Baby_Likes_to_Rock_It_The_Tractors.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Rock the Jukebox",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/08_Don't_Rock_the_Jukebox_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Rock the Jukebox",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/09_Don't_Rock_the_Jukebox_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hard Rock Bottom Of Your Heart",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/10_Hard_Rock_Bottom_Of_Your_Heart_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hard Rock Bottom of Your Heart (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/11_Hard_Rock_Bottom_of_Your_Heart_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hillbilly Rock",
+      "artist": "Marty Stuart",
+      "has_synced": true,
+      "path": "select/12_Hillbilly_Rock_Marty_Stuart.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hillbilly Rock (Album Version)",
+      "artist": "Marty Stuart",
+      "has_synced": true,
+      "path": "select/13_Hillbilly_Rock_(Album_Version)_Marty_Stuart.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If I Were Rock & Roll",
+      "artist": "Chase Rice",
+      "has_synced": true,
+      "path": "select/14_If_I_Were_Rock_&_Roll_Chase_Rice.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jailhouse Rock",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/15_Jailhouse_Rock_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Little Rock",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/16_Little_Rock_Reba_McEntire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rock You Up",
+      "artist": "The Romantics",
+      "has_synced": false,
+      "path": "select/pl_01_Rock_You_Up_The_Romantics.txt"
+    }
+  ]
+}
