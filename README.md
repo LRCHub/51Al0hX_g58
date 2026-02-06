@@ -1,0 +1,46 @@
+# ROMA – Rock Teto
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:14.60] Well I'm married to the good life
+[00:15.84] I said I'd be a good wife
+[00:17.58] When I put on this ring
+[00:21.28] I drive a new Mercedes
+[00:22.85] I play tennis with the ladies
+[00:24.59] I buy all the finer things
+[00:28.25] But all that don't mean nothing
+[00:31.17] When you can't get a good night's loving
+[00:35.67] Oh little rock
+[00:37.68] Think I'm gonna have to slip you off
+[00:42.01] Take a chance tonight and untie the knot
+[00:45.46] There's more to life than what I've got
+[00:49.54] Oh little rock
+[00:52.46] You know this heart of mine just can't be bought
+[00:55.83] I'm gonna find someone who really cares a lot
+[00:58.74] When I slip off this little rock
+[01:07.25] Well I wonder if he'll miss me
+[01:09.18] He doesn't even kiss me
+[01:10.77] When he comes home at night
+[01:14.34] He never calls me honey
+[01:15.84] But he sure loves his money
+[01:17.65] And I'm the one who pays the price
+[01:21.37] But when he finds this ring he'll see
+[01:24.45] He keeps everything but me
+[01:27.99] Oh little rock
+[01:30.93] Think I'm gonna have to slip you off
+[01:35.32] Take a chance tonight and untie the knot
+[01:38.42] There's more to life than what I've got
+[01:42.14] Oh little rock
+[01:45.58] You know this heart of mine just can't be bought
+[01:48.81] I'm gonna find someone who really cares a lot
+[01:52.02] When I slip off this little rock
+[02:21.91] Oh little rock
+[02:24.87] Think I'm gonna have to slip you off
+[02:27.75] Take a chance tonight and untie the knot
+[02:31.44] There's more to life than what I've got
+[02:35.26] Oh little rock
+[02:38.48] You know this heart of mine just can't be bought
+[02:41.97] I'm gonna find someone who really cares a lot
+[02:44.95] When I slip off this little rock
+```
